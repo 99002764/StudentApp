@@ -1,1 +1,1 @@
-# StudentApp
+# SpringMongo
